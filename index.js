@@ -21,3 +21,11 @@ let sticer3_animation = bodymovin.loadAnimation({
     autoplay: true,
     path: 'data_coin3.json',
 });
+
+let sticerCup_1_animation = bodymovin.loadAnimation({
+    container: document.getElementById("container-sticers"),
+    renderer: 'svg',
+    loop: true,
+    autoplay: true,
+    path: '.json',
+});
