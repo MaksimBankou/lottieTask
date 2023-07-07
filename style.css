@@ -35,3 +35,12 @@ h1 {
     justify-items: center;
     
 }
+
+#container-sticers-2 {
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    
+}

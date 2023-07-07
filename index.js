@@ -61,3 +61,43 @@ let sticerCup_5_animation = bodymovin.loadAnimation({
     autoplay: true,
     path: 'Cup_5.json',
 });
+
+let sticerCup_6_animation = bodymovin.loadAnimation({
+    container: document.getElementById("container-sticers-2"),
+    renderer: 'svg',
+    loop: true,
+    autoplay: true,
+    path: 'Cup_6.json',
+});
+
+let sticerCup_7_animation = bodymovin.loadAnimation({
+    container: document.getElementById("container-sticers-2"),
+    renderer: 'svg',
+    loop: true,
+    autoplay: true,
+    path: 'Cup_7.json',
+});
+
+let sticerCup_8_animation = bodymovin.loadAnimation({
+    container: document.getElementById("container-sticers-2"),
+    renderer: 'svg',
+    loop: true,
+    autoplay: true,
+    path: 'Cup_8.json',
+});
+
+let sticerCup_9_animation = bodymovin.loadAnimation({
+    container: document.getElementById("container-sticers-2"),
+    renderer: 'svg',
+    loop: true,
+    autoplay: true,
+    path: 'Cup_9.json',
+});
+
+let sticerCup_10_animation = bodymovin.loadAnimation({
+    container: document.getElementById("container-sticers-2"),
+    renderer: 'svg',
+    loop: true,
+    autoplay: true,
+    path: 'Cup_10.json',
+});
